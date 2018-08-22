@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: "chatapp-server-v2"
+
+server:
+  servlet:
+    context-path: "/chatapp-server-v2"
